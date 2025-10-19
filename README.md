@@ -1,4 +1,4 @@
-# ⚛️ emcalc — Einstein’s E=mc² Energy Calculator - [It is minimal version interactive emcalc](emcalc.github.io/emcalc-interactive//)
+# ⚛️ emcalc minimal — Einstein’s E=mc² Energy Calculator minimal
 
 > **Instantly calculate mass-energy equivalence with style, and full open-source freedom.**
 
@@ -10,7 +10,7 @@
 
 ## ✨ What is minimal emcalc?
 
-**emcalc** is a lightweight, open-source tool designed to calculate energy from mass using Einstein's famous formula:  
+**emcalc minimal** is a lightweight, open-source tool designed to calculate energy from mass using Einstein's famous formula:  
 \[
 E = mc^2
 \]
